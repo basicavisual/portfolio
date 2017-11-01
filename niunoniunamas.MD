@@ -72,6 +72,8 @@ __Las funcionalidades__ son las siguientes:
 - Archivos dinámicos
 - Páginas estáticas
 
+Se puede consultar [el repositorio aquí](http://github.com/ponentesincausa/niunoniunamas/).
+
 #### ¿Qué sigue?
 
 - Cambios estéticos a sliders y otros detalles
