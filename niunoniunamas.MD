@@ -17,7 +17,6 @@ __Tipo de usuario:__ Existen 2 tipos de usuarios para este proyecto
 1. Adultos de 45-65 años de edad, que saben poco de tecnología, involucrados con las problemáticas del país
 2. Jóvenes de 20-35 años de edad, que utilizan medios digitales para informarse, involucrados con las problemáticas del país
 
-### Etapa de Diseño
-
+__Solución:__ Se escogió wordpress, ofreciendo una plantilla hecha a mano, que cumpliera con las necesidades de la organización.
 
 
