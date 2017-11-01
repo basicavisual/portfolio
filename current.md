@@ -7,8 +7,12 @@ These projects are in progress.
 
 Ni uno ni una más is an NGO from Mexico City, México, who works with data and victims of Mexico's dissapeared. They needed a blog engine to give their online presence a newer image. I worked with them to develop a new branding, UX and UI for their new site, and chose wordpress as the blogging engine, as it needed to be easily mantained in the long term. I am developing a new wordpress theme for them.
 
+You can view the full UX/UI/Coding explanation [here](niunoniunamas.MD).
+
 
 ### [3 de 3 datos, Transparencia Mexicana, Ruby on Rails](https://github.com/ponentesincausa/3de3datos/)
 ![3de3](https://github.com/ponentesincausa/portfolio/blob/master/imgs/3de3.png?raw=true)
 
 3de3 Datos is the continuation of the project 3de3 by Transparencia Mexicana and IMCO that they work with the Mexico City Government. This is a Rails app that consumes data from an external server and processes for display. For this project I wrote a search engine and had to build models that could interact with each other in the views.
+
+You can view a video of the product [here](https://www.youtube.com/watch?v=vTe2p5hkwlE&ab_channel=AliGoga).

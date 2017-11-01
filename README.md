@@ -4,6 +4,10 @@ Here are some of my projects
 
 ### Layout design
 
+### [Control jets](http://controljets.com)
+![control-jeta](https://github.com/ponentesincausa/portfolio/blob/master/imgs/controljets.gif?raw=true)
+Control Jets is a newly formed company that rents jets. I picked the requirements and iteratively built the website through a series of feedback rounds. It is built as an MVP to start operating asap, and measure user interactions with it. 
+
 [Ni uno ni una más](https://ponentesincausa.github.io/n1n1a/) is a NGO who wanted to take their website to the next level. They are currently using a blogspot platform. I am recreating their site and desing the layout above. I am in the process of turning this into its own [wordpress template](https://github.com/ponentesincausa/niunoniunamas).
 
 [3de3 datos](https://ponentesincausa.github.io/landing3de3/index3.html) will be the new platform of 3de3 for Transparencia Mexicana & the government of Mexico City. I am coding it in rails.
@@ -18,7 +22,7 @@ Here are some of my projects
 
 #### D3.js visualizations
 
-[Teen pregnancy by municipality on Jalisco](http://bl.ocks.org/ponentesincausa/64c77fa4abee31af9916) 
+[Teen pregnancy by municipality on Jalisco](http://bl.ocks.org/ponentesincausa/64c77fa4abee31af9916)
 
 [Mortality by tumors per mexican region](http://bl.ocks.org/ponentesincausa/b49d2b3f35aba60d9a1c)
 
