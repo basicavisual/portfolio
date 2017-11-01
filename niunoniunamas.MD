@@ -39,6 +39,8 @@ Este es el diseño de la página anterior, la organización quería conservar el
 
 ![el diseño anterior](imgs/n1n.png)
 
+#### Primera iteración
+
 Para la primera iteración, se presentó este diseño:
 
 ![primera iteración](imgs/n1nsec.png)
@@ -54,6 +56,8 @@ Luego de rebotar los cambios, se pidió:
 - Oscurecer el tono de gris para mejor legibilidad para el demográfico más adulto
 - Proponer una nueva tipografía para la organización que proyectara los valores de calidéz y sensibilidad. Se escogieron 6 tipografas que representaran los valores que la organización quera proyectar, de las que la organización escogió Lobster 2.
 
+#### Presente iteración
+
 Así va el progreso de la última iteración:
 
 ![última iteración](imgs/n1nfinal.png)
@@ -68,4 +72,11 @@ __Las funcionalidades__ son las siguientes:
 - Archivos dinámicos
 - Páginas estáticas
 
+#### ¿Qué sigue?
+
+- Cambios estéticos a sliders y otros detalles
+- Última ronda de retroalimentación con la organización
+- Deployment
+- Sesión de entrenamiento a editores
+- Documentación en wiki 
 
