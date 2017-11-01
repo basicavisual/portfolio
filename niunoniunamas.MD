@@ -30,4 +30,42 @@ Se escogió wordpress, ofreciendo una plantilla hecha a mano, que cumpliera con 
 
 ### Etapa de diseño
 
-lo
+Las consideraciones principales de diseño, según el objetivo del proyecto y los usuarios, fueron:
+- Debido a la sensibilidad de los temas que maneja la organización (desapariciones, feminicidios) el diseño debía ser capaz de suavizar la percepción del usuario para hacer digeribles los temas.
+- Proyectar la imagen de calidéz y sensibilidad que la organización quería dar sobre sus temas.
+- Legibilidad para los adultos de 45-65 años que usan la página
+
+Este es el diseño de la página anterior, la organización quería conservar el logotipo que aparece en el header.:
+
+![el diseño anterior](imgs/n1n.png)
+
+Para la primera iteración, se presentó este diseño:
+
+![primera iteración](imgs/n1nsec.png)
+
+Este diseño tiene un slider con contenidos escogidos por el staff, y un carrousel con los últimos posts para navegar, así como el último post.
+Se escogió:
+- El color rosa-magenta para suavizar la imagen de la organización
+- Se rendereó en un óvalo el logotipo
+- Paleta de colores sencilla (blanco, gris, rosa-magenta)
+
+Luego de rebotar los cambios, se pidió:
+- Cambiar las tipografas serif para evitar la imagen de periódico, por las connotaciones de nota roja que puede tener la temática
+- Oscurecer el tono de gris para mejor legibilidad para el demográfico más adulto
+- Proponer una nueva tipografía para la organización que proyectara los valores de calidéz y sensibilidad. Se escogieron 6 tipografas que representaran los valores que la organización quera proyectar, de las que la organización escogió Lobster 2.
+
+Así va el progreso de la última iteración:
+
+![última iteración](imgs/n1nfinal.png)
+
+__Las funcionalidades__ son las siguientes:
+- Primer slider editable por usuarios
+- Carrusel que despliega los 10 últimos posts, en grupos de 3
+- Despliegue de la última editorial en la página principal
+- Subpágina de archivos
+- Subpágina de editoriales
+- Barra de búsqueda
+- Archivos dinámicos
+- Páginas estáticas
+
+
