@@ -1,5 +1,5 @@
 # Ni uno ni una más
-### Proyecto UX/UI/Development/Deploy
+### Proyecto UX/UI - Development - Deploy - Implement
 
 ### Descripción del proyecto
 Ni uno ni una más es una organización sin fines de lucro que se dedica a hablar de temáticas de desaparición forzada y feminicidios. 
