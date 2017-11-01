@@ -56,6 +56,8 @@ Luego de rebotar los cambios, se pidió:
 - Oscurecer el tono de gris para mejor legibilidad para el demográfico más adulto
 - Proponer una nueva tipografía para la organización que proyectara los valores de calidéz y sensibilidad. Se escogieron 6 tipografas que representaran los valores que la organización quera proyectar, de las que la organización escogió Lobster 2.
 
+### Desarrollo
+
 #### Presente iteración
 
 Así va el progreso de la última iteración:
