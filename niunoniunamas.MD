@@ -21,3 +21,13 @@ __Tipo de usuario:__ Existen 2 tipos de usuarios para este proyecto
 
 Se escogió wordpress, ofreciendo una plantilla hecha a mano, que cumpliera con las necesidades de la organización. Las razones son:
 
+- La organización cuenta con poco dinero para el desarrollo continuo. Wordpress permite en este sentido: 
+  - Tener la mayor parte de las funciones requeridas 'out of the box' (control de usuarios, control de roles, gestión de contenido)
+  - La posibilidad de que los administradores le den a la plataforma nuevas funciones sin necesidad de un desarrollador, a través de plugins
+  - En caso de requerir mantenimiento o cambios, conseguir un desarrollador wordpress es fácil y barato
+- Una vez que está diseñada la plantilla y echado a andar el proyecto, éste requiere de poco mantenimiento
+- Si la organización quisiera cambiar de identidad el sitio, lo puede hacer simplemente cambiando la plantilla
+
+### Etapa de diseño
+
+lo
